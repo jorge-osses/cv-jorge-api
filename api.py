@@ -28,24 +28,24 @@ def cv():
         "nombre" : "Jorge",
         "apellido" : "Osses",
         "residencia" : "Argentina",
+        "telefono" : "+54 11 2721-8440",
         "experiencia" : [{
-            "posicion" : "< describe tu posición>",
-            "empresa" : "< nombre de tu empresa >",
-            "desde" : "< cuándo empezaste a trabajar >",
-            "hasta" : "< si ya no trabajas más, cuándo >",
-            "descripcion" : "< detalles >"
+            "posicion" : "Tecnico",
+            "empresa" : "IMPES",
+            "desde" : "Febrero de 2017",
+            "hasta" : "actualidad",
+            "descripcion" : "tecnico con conocimientos en Redes y Servidores de Videovigilancia, aprendiendo desarrollo web con Python"
         }],
         "educación" : {
-            "nivel" : "< nivel de tus estudios >",
+            "nivel" : "Secundario completo",
             "titulo" : "< nombre de tu carrera >",
             "institucion" : "< dónde estudiaste >",
             "facultad" : "< más detalles >"
         },
-        "intereses" : ["python", "apis", "django", "Linux", "desarrollo web"],
+        "intereses" : ["python", "apis", "django", "Linux", "desarrollo web", "materialize"],
         "redes" : {
             "github" : "https://github.com/jorge-osses",
             "twitter" : "https://twitter.com/JorgeOsses19",
-            "Facebook" : "https://facebook.com",
             "linkedin" : "https://www.linkedin.com/in/jorge-osses-03078899"
         },
         "foto" : url_imagen

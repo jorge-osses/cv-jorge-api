@@ -42,8 +42,9 @@ def cv():
             "institucion" : "< dónde estudiaste >",
             "facultad" : "< más detalles >"
         },
-        "intereses" : ["python", "apis", "django", "Linux", "desarrollo web", "materialize"],
+        "intereses" : ["python", "apis", "django", "Flask", "Linux", "desarrollo web(HTML,CSS,JS)","BootStrap", "materialize"],
         "redes" : {
+            "website": "j.osses.ar",
             "github" : "https://github.com/jorge-osses",
             "twitter" : "https://twitter.com/JorgeOsses19",
             "linkedin" : "https://www.linkedin.com/in/jorge-osses-03078899"

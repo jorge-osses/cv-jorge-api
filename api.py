@@ -34,7 +34,7 @@ def cv():
             "empresa" : "IMPES",
             "desde" : "Febrero de 2017",
             "hasta" : "actualidad",
-            "descripcion" : "tecnico con conocimientos en Redes y Servidores de Videovigilancia, aprendiendo desarrollo web con Python"
+            "descripcion" : "tecnico con conocimientos en Redes y Servidores de Videovigilancia, aprendiendo desarrollo web con Python/Django"
         }],
         "educación" : {
             "nivel" : "Secundario completo",
@@ -42,9 +42,9 @@ def cv():
             "institucion" : "< dónde estudiaste >",
             "facultad" : "< más detalles >"
         },
-        "intereses" : ["python", "apis", "django", "Flask", "Linux", "desarrollo web(HTML,CSS,JS)","BootStrap", "materialize"],
+        "intereses" : ["Python", "API's", "Django", "Flask", "Linux", "desarrollo web(HTML,CSS,JS)","BootStrap"],
         "redes" : {
-            "website": "j.osses.ar",
+            "website": "https://jorge.osses.ar",
             "github" : "https://github.com/jorge-osses",
             "twitter" : "https://twitter.com/JorgeOsses19",
             "linkedin" : "https://www.linkedin.com/in/jorge-osses-03078899"
